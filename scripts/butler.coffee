@@ -66,7 +66,7 @@ module.exports = (robot) ->
    	            res.send("A new user, \"" + newUser + "\" has been created. Weyo!")
    	            usedNames.push newUser
    	            return
-    , 1000*15 #Perform check every 10 seconds
+    , 1000*15 #Perform check every 15 seconds
 
 
   #Assuming any  user says "test" at some point, return "Roger that."
