@@ -6,9 +6,10 @@
 #   Uh, not quite sure. If you're interested in this, contact me!
 #
 # Commands:
-#   butler wiki     - Check who the latest new user on the Cerise Wiki is.
-#	butler test     - Used for testing purposes. Should outpur "Roger that"
-#   butler butler	- Returns "How can I be of assistance?"
+#   wiki      - Check who the latest new user on the Cerise Wiki is.
+#   test      - Used for testing purposes. Should outpur "Roger that"
+#   butler    - Returns "How can I be of assistance?"
+#   start     - Starts checking for new accounts on the wiki
 #
 # Author:
 #   mheine
